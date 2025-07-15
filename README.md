@@ -1,12 +1,33 @@
-# React + Vite
+# 👋 Merhaba, Ben Eyüp Efe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend geliştirici olarak modern web teknolojileri ile kullanıcı dostu ve yenilikçi çözümler üretiyorum. Bu portfolyo websitesi, dijital yolculuğumu ve projelerimi sergilemek için oluşturuldu.
 
-Currently, two official plugins are available:
+## 💼 Portfolyo İçeriği
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bu websitede:
+- Profesyonel deneyimlerim
+- Geliştirdiğim projeler
+- Teknik yeteneklerim
+- Mini web uygulamaları
 
-## Expanding the ESLint configuration
+hakkında detaylı bilgilere ulaşabilirsiniz.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Teknik Detaylar
+
+Bu portfolyo websitesi modern web teknolojileri kullanılarak geliştirildi:
+
+- Frontend: React.js
+- Build Tool: Vite
+- Styling: Tailwind CSS
+- Deployment: [Platform Adı]
+
+## 🤝 İletişim
+
+Benimle iletişime geçmek veya projelerim hakkında daha fazla bilgi almak için:
+
+- E-posta: [E-posta Adresiniz]
+- LinkedIn: [LinkedIn Profiliniz]
+- GitHub: [GitHub Profiliniz]
+
+---
+*Bu websitesi React ve Vite kullanılarak geliştirilmiştir.*
