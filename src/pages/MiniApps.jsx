@@ -45,15 +45,11 @@ export default function MiniApps() {
               <p className="text-gray-700 text-base sm:text-lg">{app.description}</p>
             </div>
             <div className="p-4">
-              <a
-                href={app.route}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <Link to={app.route}>
                 <button className="w-full text-white font-bold py-2 px-4 rounded-md bg-gradient-to-r from-blue-600 via-purple-600 to-pink-500 transition duration-300 ease-in-out hover:brightness-110">
                   Go App
                 </button>
-              </a>
+              </Link>
             </div>
           </div>
         ))}

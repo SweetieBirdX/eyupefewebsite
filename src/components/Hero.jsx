@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 const Hero = () => {
   return (
     <section
@@ -14,12 +16,12 @@ const Hero = () => {
             also known as <span className="font-semibold">SweetieBirdX</span>
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center md:justify-start">
-            <a
-              href="mini-apps"
+            <Link
+              to="/mini-apps"
               className="bg-white text-blue-700 px-5 sm:px-6 py-2 rounded shadow font-semibold text-sm sm:text-base"
             >
               Projects
-            </a>
+            </Link>
             <a
               href="#blog"
               className="bg-white text-blue-700 px-5 sm:px-6 py-2 rounded shadow font-semibold text-sm sm:text-base"
